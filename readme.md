@@ -20,6 +20,48 @@ A robust, production-ready machine learning application for forecasting occupanc
 
 ---
 
+## Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](screenshot/dashboard.png)
+
+### Booking Trend
+
+![Data Upload](screenshot/1.png)
+
+### Booking outcome distribution
+
+![Forecast Table](screenshot/2.png)
+
+### Booking
+
+![Trend Visualization](screenshot/3.png)
+
+### Price Trend
+
+![Price Trend](screenshot/5.png)
+
+### Dorm Trend
+
+![Booking Status](screenshot/4.png)
+
+### Booking Trend (Confirm, No-Show, Cancellation)
+
+![Booking Status](screenshot/6.png)
+
+### Monthly Forecasted Metrics
+
+![Booking Status](screenshot/7.png)
+
+### Daily Forecasted Metrics
+
+![Booking Status](screenshot/8.png)
+
+### Booking Metrics Forecast(next month)
+
+![Booking Status](screenshot/9.png)
+
 ## Technical Overview
 
 ### Data Pipeline

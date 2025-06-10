@@ -6594,3 +6594,19 @@ Offending object:
 2025-06-11 01:27:05,038 - utils - INFO - Preparing features for metric: no_show_rate with forecast horizon: 31
 2025-06-11 01:27:07,359 - train - INFO - Model for no_show_rate trained and saved.
 2025-06-11 01:27:07,364 - utils - INFO - Preparing features for metric: no_show_rate with forecast horizon: 31
+2025-06-11 02:16:20,000 - __main__ - INFO - Data loaded successfully with 566 records.
+2025-06-11 02:16:20,047 - __main__ - INFO - Data loaded successfully and stored in session state.
+2025-06-11 02:16:21,522 - __main__ - INFO - Daily metrics calculated successfully.
+2025-06-11 02:16:21,523 - __main__ - INFO - Forecasting for period: 2025-07-01 to 2025-07-31 (31 days)
+2025-06-11 02:16:21,523 - utils - INFO - Preparing features for metric: occupancy_rate with forecast horizon: 31
+2025-06-11 02:16:26,500 - train - INFO - Model for occupancy_rate trained and saved.
+2025-06-11 02:16:26,507 - utils - INFO - Preparing features for metric: occupancy_rate with forecast horizon: 31
+2025-06-11 02:16:27,074 - utils - INFO - Preparing features for metric: Revenue with forecast horizon: 31
+2025-06-11 02:16:31,537 - train - INFO - Model for Revenue trained and saved.
+2025-06-11 02:16:31,547 - utils - INFO - Preparing features for metric: Revenue with forecast horizon: 31
+2025-06-11 02:16:32,125 - utils - INFO - Preparing features for metric: cancellation_rate with forecast horizon: 31
+2025-06-11 02:16:34,207 - train - INFO - Model for cancellation_rate trained and saved.
+2025-06-11 02:16:34,209 - utils - INFO - Preparing features for metric: cancellation_rate with forecast horizon: 31
+2025-06-11 02:16:34,788 - utils - INFO - Preparing features for metric: no_show_rate with forecast horizon: 31
+2025-06-11 02:16:37,191 - train - INFO - Model for no_show_rate trained and saved.
+2025-06-11 02:16:37,196 - utils - INFO - Preparing features for metric: no_show_rate with forecast horizon: 31
